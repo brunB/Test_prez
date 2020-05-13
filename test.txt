@@ -1,1 +1,2 @@
 Presentation de GIT et de ses lignes de commandes
+Bonjour, début de la présentation
